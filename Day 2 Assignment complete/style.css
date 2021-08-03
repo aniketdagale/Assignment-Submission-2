@@ -1,0 +1,45 @@
+#a{
+    color:rgb(27, 21, 21);
+    font-size: 400%;
+    text-align: center;
+    padding:75px;
+   background-image: url(./background\ image1.jpg) ;
+    background-size: 100%;
+    margin-left: 15px;
+    
+}
+#b{
+    color:red;
+    font-size: 300%;
+    font-style: italic;
+}
+.Centre{
+    
+    text-align:left;
+    margin-right: 200px;
+    margin-left:300px;
+  
+}
+.Bold{
+    
+    color:black;
+    font-size:200%;
+    font-style: bold;
+    text-decoration: underline;
+     
+    
+
+}
+.Size{
+    color: black;
+    font-size:150%
+    font-style: oblique;
+    margin-right: 400px;
+}
+#c{
+    color:blue;
+    font-size:200%;
+    font-style: bold;
+    margin-left: 1100px ; 
+}
+body{background-color: #3bf3f3;}
